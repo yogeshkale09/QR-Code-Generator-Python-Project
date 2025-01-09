@@ -25,7 +25,7 @@ This project serves as a practical example for beginners to learn about Python p
 
 4. *User-Friendly Interface*
 
-Input data through a simple command-line interface or script.
+- Input data through a simple command-line interface or script.
 
 5. *Lightweight and Portable*
 
@@ -81,7 +81,7 @@ To run this project, ensure you have the following installed:
 - *Programming Language:* Python
 - *Libraries Used:*
   1. qrcode for QR code generation.
-  2.Pillow for image processing.
+  2. Pillow for image processing.
 ---
 
 ## Future Enhancements
