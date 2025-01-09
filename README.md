@@ -6,6 +6,8 @@ The QR Code Generator Python Project is a simple yet powerful tool designed to c
 
 This project serves as a practical example for beginners to learn about Python programming and the creation of QR codes while being useful for real-world applications such as marketing, contactless payments, and information sharing.
 
+![Screenshot 2025-01-09 133605](https://github.com/user-attachments/assets/02a08734-51a8-4810-a916-4aee0e8e4087)
+
 ----
 
 
